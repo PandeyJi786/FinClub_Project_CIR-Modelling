@@ -1,8 +1,6 @@
 # Fin-Club-Project-Open-2026
-Project No-1 
+#PS-1
 
-Name - Tushar Kumar 
-
-Enroll. - 24119056
-
-Branch. - Production and Industrial Engineering 
+Name: Pandey Shreyash Rakesh Kumar
+Enrollment No.: 24117096
+Branch: B.Tech.(Mechanical Engineering) 
