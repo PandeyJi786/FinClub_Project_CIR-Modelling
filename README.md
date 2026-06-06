@@ -1,6 +1,8 @@
-# Fin-Club-Project-Open-2026
+# Fin-Club-Open-Project-2026
 #PS-1
 
 Name: Pandey Shreyash Rakesh Kumar
+
 Enrollment No.: 24117096
+
 Branch: B.Tech.(Mechanical Engineering) 
