@@ -1,6 +1,5 @@
 # Fin-Club-Open-Project-2026
-# wsadnnkaejfjdhajsdx
-#PS-1
+#PS-1: CIR Model
 
 Name: Pandey Shreyash Rakesh Kumar
 
